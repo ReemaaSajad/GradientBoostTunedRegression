@@ -1,4 +1,4 @@
-# 🏥 Insurance Charges Prediction using Gradient Boosting Regressor
+# 🏥 Insurance Charges Prediction using Gradient Boosting Regression
 
 ## 🔍 Overview
 
